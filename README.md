@@ -1,2 +1,2 @@
 CodersCamp-Project-1
-Zalecana przegladarka Google Chrome.
+Recommended browser - Google Chrome.
