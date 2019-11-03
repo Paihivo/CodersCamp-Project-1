@@ -104,7 +104,7 @@ body {
     margin: auto;
 }
 .image {
-    margin: auto;
+    margin: auto 5% auto auto;
     width: 30%;
     height: auto;
 }
@@ -153,15 +153,12 @@ section {
 	50% { opacity: 0; }
 	100% { opacity: 1; }
 }
-.mail {
-    margin:auto;
-    width: 20%;
-}
+
 dl {
-margin: auto;
+margin: auto 10% auto auto;
 width: 55%;
 font-family: 'Staatliches', cursive;
-font-size: 20px;
+font-size: 2ex;
 }
 .wrapper {
  margin:auto; 
